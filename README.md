@@ -8,32 +8,33 @@
 
 
 <h1>To Do List : (incomplete)</h1>
-<ol style="list-style-type:circle">
-    
-    <li>something</li>
 
-    <ol>Fix Collision with obstacles above the player</ol>
-    <ol>Choose a Resolution and Adjust sprites to fit that</ol>
-    <ol>Create Sound Effects</ol>
-    <ol>Create a Soundtrack</ol>
-    <ol>Create Title Screen Menu</ol>
-    <ol>Add Scoreboard and Scoring System</ol>
-    <ol>Add Lives</ol>
-    <ol>Player Sprites
-        <ol>flying</ol>
-        <ol>gliding</ol>
-        <ol>running</ol>
-        <ol>damage</ol>
-        <ol>low health</ol>
-        <ol>death</ol>
-    </ol>
-    <ol>Enemy Soldier Sprites
-        <ol>running</ol>
-        <ol>death</ol>
-    </ol>
-    <ol>Fix Enemy Soldier - On Death - The entire soldier does not get destroyed yet. Same with turrents</ol>
-    <ol>Create Background Environment Textures</ol>
-    <ol>Move UI Portrait to bottom left corner</ol>
-    <ol>Fix View to help the player see beneath them better during flight</ol>
-    
+<ul style="list-style-type:circle">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
+
+<ol>Fix Collision with obstacles above the player</ol>
+<ol>Choose a Resolution and Adjust sprites to fit that</ol>
+<ol>Create Sound Effects</ol>
+<ol>Create a Soundtrack</ol>
+<ol>Create Title Screen Menu</ol>
+<ol>Add Scoreboard and Scoring System</ol>
+<ol>Add Lives</ol>
+<ol>Player Sprites
+    <ol>flying</ol>
+    <ol>gliding</ol>
+    <ol>running</ol>
+    <ol>damage</ol>
+    <ol>low health</ol>
+    <ol>death</ol>
 </ol>
+<ol>Enemy Soldier Sprites
+    <ol>running</ol>
+    <ol>death</ol>
+</ol>
+<ol>Fix Enemy Soldier - On Death - The entire soldier does not get destroyed yet. Same with turrents</ol>
+<ol>Create Background Environment Textures</ol>
+<ol>Move UI Portrait to bottom left corner</ol>
+<ol>Fix View to help the player see beneath them better during flight</ol>
