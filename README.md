@@ -18,12 +18,14 @@
     <li>Add Scoreboard and Scoring System</li>
     <li>Add Lives</li>
     <li>Player Sprites
-        <li>flying</li>
-        <li>gliding</li>
-        <li>running</li>
-        <li>damage</li>
-        <li>low health</li>
-        <li>death</li>
+        <ul style="list-style-type:circle">
+            <li>flying</li>
+            <li>gliding</li>
+            <li>running</li>
+            <li>damage</li>
+            <li>low health</li>
+            <li>death</li>
+        </ul>
     </li>
     <li>Enemy Soldier Sprites
         <li>running</li>
