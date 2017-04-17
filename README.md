@@ -28,8 +28,10 @@
         </ul>
     </li>
     <li>Enemy Soldier Sprites
-        <li>running</li>
-        <li>death</li>
+        <ul style="list-style-type:circle">
+            <li>running</li>
+            <li>death</li>
+        </ul>
     </li>
     <li>Fix Enemy Soldier - On Death - The entire soldier does not get destroyed yet. Same with turrents</li>
     <li>Create Background Environment Textures</li>
