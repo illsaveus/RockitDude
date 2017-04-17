@@ -1,7 +1,5 @@
 # RockitDude
 
-#Rockit Dude
-
 <p>Created by Andres Borges.</p>
 
 <p>This is part of a project assigned in my 2D Platformer class.</p>
@@ -10,7 +8,7 @@
 
 
 <h1>To Do List : (incomplete)</h1>
-<ol>Fix Collision with obstacles above the player</ol>
+<ul>Fix Collision with obstacles above the player</ol>
 <ol>Choose a Resolution and Adjust sprites to fit that</ol>
 <ol>Create Sound Effects</ol>
 <ol>Create a Soundtrack</ol>
