@@ -1,6 +1,6 @@
 # RockitDude
 
-<p>Created by <a href="http://www.illsaveus.com" target="_blank">Andres Borges</a>.</p>
+<p>Created by <a href="https://github.com/illsaveus">Andres Borges</a>.</p>
 
 <p>This is part of a project assigned in my 2D Platformer class.</p>
 
