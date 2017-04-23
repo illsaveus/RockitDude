@@ -33,12 +33,8 @@
             <li>death</li>
         </ul>
     </li>
-    <li><del>Fix Enemy Soldier - On Death - The entire soldier does not get destroyed yet. Same with turrets</del></li>
+    <li><del>Fix Enemy Soldier - On Death - The entire soldier does not get destroyed yet. Same with turrents</del></li>
     <li>Create Background Environment Textures</li>
     <li><del>Move UI Portrait to bottom left corner</del></li>
     <li>Fix View to help the player see beneath them better during flight</li>
-    <li>Health Packs - prevent accidentally picking up health when already at full health</li>
-    <li>Fix Mute button shifting around on the screen</li>
-    <li>Add navigational map to top left corner</li>
-    <li>Add one second delay between each rocket fire</li>
 </ul>
