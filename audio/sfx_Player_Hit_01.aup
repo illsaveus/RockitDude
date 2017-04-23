@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="sfx_Player_Hit_01_data" version="1.3.0" audacityversion="2.1.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="676.7607377248" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="*Player Hit" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="488960">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001694.au" len="112027" min="-0.323909" max="0.29473" rms="0.029038"/>
+				</waveblock>
+				<waveblock start="112027">
+					<simpleblockfile filename="e0000de2.au" len="262144" min="-0.431169" max="0.466263" rms="0.037958"/>
+				</waveblock>
+				<waveblock start="374171">
+					<simpleblockfile filename="e00010c8.au" len="114789" min="-0.404587" max="0.244786" rms="0.038145"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="*Player Hit" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="488960">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001284.au" len="112027" min="-0.323597" max="0.294626" rms="0.029017"/>
+				</waveblock>
+				<waveblock start="112027">
+					<simpleblockfile filename="e000030f.au" len="262144" min="-0.430961" max="0.465951" rms="0.03793"/>
+				</waveblock>
+				<waveblock start="374171">
+					<simpleblockfile filename="e000174a.au" len="114789" min="-0.404483" max="0.244682" rms="0.038117"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="*Player Hit" channel="0" linked="1" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7233">
+				<waveblock start="0">
+					<simpleblockfile filename="e000056e.au" len="7233" min="-0.334292" max="0.206472" rms="0.020614"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="*Player Hit" channel="1" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7233">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002cb.au" len="7233" min="-0.333981" max="0.20616" rms="0.020599"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

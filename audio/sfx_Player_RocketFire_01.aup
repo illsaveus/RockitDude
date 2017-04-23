@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="sfx_Player_RocketFire_01_data" version="1.3.0" audacityversion="2.1.2" sel0="0.0000000000" sel1="0.7225396825" vpos="0" h="0.0000000000" zoom="21656.3436071936" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="*Rocket Launch" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="289792">
+				<waveblock start="0">
+					<simpleblockfile filename="e00013f6.au" len="250880" min="-0.313817" max="0.29976" rms="0.022552"/>
+				</waveblock>
+				<waveblock start="250880">
+					<simpleblockfile filename="e0001ead.au" len="38912" min="-0.162664" max="0.055687" rms="0.017141"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="6.57124717">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="347136">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001632.au" len="254976" min="-0.165711" max="0.16121" rms="0.005309"/>
+				</waveblock>
+				<waveblock start="254976">
+					<simpleblockfile filename="e0001b4f.au" len="92160" min="-0.133687" max="0.082898" rms="0.005144"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="*Rocket Launch" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="289792">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001b27.au" len="250880" min="-0.314648" max="0.301907" rms="0.022686"/>
+				</waveblock>
+				<waveblock start="250880">
+					<simpleblockfile filename="e000191e.au" len="38912" min="-0.163841" max="0.056067" rms="0.01726"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="6.57124717">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="347136">
+				<waveblock start="0">
+					<simpleblockfile filename="e00012e1.au" len="254976" min="-0.166369" max="0.162006" rms="0.005334"/>
+				</waveblock>
+				<waveblock start="254976">
+					<simpleblockfile filename="e0001232.au" len="92160" min="-0.13431" max="0.083279" rms="0.005168"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="*Rocket Launch" channel="0" linked="1" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="31864">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fe8.au" len="31864" min="-0.076321" max="0.076736" rms="0.00293"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="*Rocket Launch" channel="1" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="31864">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a19.au" len="31864" min="-0.076598" max="0.077082" rms="0.002943"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
