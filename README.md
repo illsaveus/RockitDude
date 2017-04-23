@@ -10,7 +10,7 @@
 <h1>To Do List : (incomplete)</h1>
 
 <ul style="list-style-type:circle">
-    <li>Fix Collision with obstacles above the player</li>
+    <li><del>Fix Collision with obstacles above the player</del></li>
     <li>Choose a Resolution and Adjust sprites to fit that</li>
     <li>Create Sound Effects</li>
     <li>Create a Soundtrack</li>
