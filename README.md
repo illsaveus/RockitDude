@@ -13,9 +13,9 @@
     <li><del>Fix Collision with obstacles above the player</del></li>
     <li>Choose a Resolution and Adjust sprites to fit that</li>
     <li><del>Create Sound Effects</del></li>
-    <li>Create a Soundtrack</li>
+    <li><del>Create a Soundtrack</del></li>
     <li><del>Create Title Screen Menu</del></li>
-    <li>Add Scoreboard and Scoring System</li>
+    <li><del>Add Scoreboard and Scoring System</del></li>
     <li>Add Lives</li>
     <li>Player Sprites
         <ul style="list-style-type:circle">
@@ -34,11 +34,14 @@
         </ul>
     </li>
     <li><del>Fix Enemy Soldier - On Death - The entire soldier does not get destroyed yet. Same with turrets</del></li>
-    <li>Create Background Environment Textures</li>
+    <li><del>Create Background Environment Textures</del></li>
     <li><del>Move UI Portrait to bottom left corner</del></li>
-    <li>Fix View to help the player see beneath them better during flight</li>
+    <li>View - Shift view around depending on where the player mouse is pointed</li>
     <li>Health Packs - prevent accidentally picking up health when already at full health</li>
-    <li>Fix Mute button shifting around on the screen</li>
+    <li><del>Fix Mute button shifting around on the screen</del></li>
     <li>Add navigational map to top left corner</li>
     <li>Add one second delay between each rocket fire</li>
+    <li>Add a crosshair to replace the mouse</li>
+    <li><del>Extend health and fuel</del></li>
+    <li>Add in-game instructions</li>
 </ul>
