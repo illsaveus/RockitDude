@@ -38,10 +38,15 @@
     <li><del>Move UI Portrait to bottom left corner</del></li>
     <li>View - Shift view around depending on where the player mouse is pointed</li>
     <li><del>Health Packs - prevent accidentally picking up health when already at full health</del></li>
-    <li>Fix Mute button shifting around on the screen</li>
+    <li><del>Fix Mute button shifting around on the screen</del></li>
     <li>Add navigational map to top left corner</li>
     <li>Add one second delay between each rocket fire</li>
-    <li>Add a crosshair to replace the mouse</li>
+    <li><del>Add a crosshair to replace the mouse</del></li>
     <li><del>Extend health and fuel</del></li>
     <li><del>Add in-game instructions</del></li>
+    <li><del>Add instructions page</del></li>
+    <li><del>Add quit button</del></li>
+    <li><del>Fix collision problem</del></li>
+    <li>Add pause menu</li>
+    <li>Upload to website</li>
 </ul>
