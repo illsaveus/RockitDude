@@ -37,11 +37,11 @@
     <li><del>Create Background Environment Textures</del></li>
     <li><del>Move UI Portrait to bottom left corner</del></li>
     <li>View - Shift view around depending on where the player mouse is pointed</li>
-    <li>Health Packs - prevent accidentally picking up health when already at full health</li>
-    <li><del>Fix Mute button shifting around on the screen</del></li>
+    <li><del>Health Packs - prevent accidentally picking up health when already at full health</del></li>
+    <li>Fix Mute button shifting around on the screen</li>
     <li>Add navigational map to top left corner</li>
     <li>Add one second delay between each rocket fire</li>
     <li>Add a crosshair to replace the mouse</li>
     <li><del>Extend health and fuel</del></li>
-    <li>Add in-game instructions</li>
+    <li><del>Add in-game instructions</del></li>
 </ul>
